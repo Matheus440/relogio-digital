@@ -3,6 +3,7 @@
     --cor-clock: #000;
     --cor-clock-bg: rgba(175, 171, 171, 0.877);
     --cor-clock-bg-hover: rgba(100, 89, 89, 0.877);
+    --cor-footer: ;
 }
 
 * {
@@ -93,4 +94,10 @@ h3 {
     50% {
         transform: translateY(5px);
     }
+}
+
+footer {
+    text-align: center;
+    color: var;
+    
 }
